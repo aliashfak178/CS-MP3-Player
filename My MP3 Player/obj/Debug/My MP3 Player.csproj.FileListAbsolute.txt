@@ -1,0 +1,15 @@
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\My MP3 Player.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\My MP3 Player.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\mscorlib.dll
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\XanderUI.dll
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\normidna.nlp
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\normnfc.nlp
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\normnfd.nlp
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\normnfkc.nlp
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\bin\Debug\normnfkd.nlp
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\obj\Debug\My MP3 Player.csprojResolveAssemblyReference.cache
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\obj\Debug\My_MP3_Player.MainForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\obj\Debug\My_MP3_Player.Properties.Resources.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\obj\Debug\My MP3 Player.csproj.GenerateResource.Cache
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\obj\Debug\My MP3 Player.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\My MP3 Player\My MP3 Player\obj\Debug\My MP3 Player.pdb
